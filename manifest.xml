@@ -1,0 +1,166 @@
+<manifest>
+<schemaVersion>
+1.0
+</schemaVersion>
+<description>
+This file contains a list detailing other Fanoos related work. We do not 
+promise that this list is comprehensive. For instance, at a minimum, it
+does not have the ArXiv write-up of Fanoos listed comprehensively. Our intent
+in this repo is to list and provide as much content relating to Fanoos as
+possible that (1) has been publicly communicated (2) is not yet archived
+elsewhere; as we detail in the next paragraph, an aim of this manifest is to
+provide a guarantee that content has not changed beyond the date of being
+posted here / listed in previous git commits in this repo. In other words, the
+aim is to create an accurate and accountable record of otherwise unarchived
+mass communications regarding Fanoos and related work.
+
+TO CONFIRM THE SHA512 HASH AND FILE SIZE OF THIS MANIFEST, BOTH IN
+PRESENT AND PREVIOUS VERSIONS, SEE THE APPENDIX OF THE WRITE-UP AT:
+    https://arxiv.org/pdf/2006.12453.pdf
+Since ArXiv does not allow removal, overwriting, or modifications or submitted
+write-ups, the hash and files size reported allows one to check whether we
+have modified this manifest since the time of the ArXiv upload. As a result,
+this also allows one to check that none of the files listed have been modified.
+If the file was modified, then its hash and/or file size would (almost 
+certainly) change, which would not match this manifest - unless we modified the
+manifest, but then the hash and/or size of this manifest would (almost 
+certainly) change, which would then fail to match ArXiv - and we do not have the
+ability to modify ArXiv. This creates a chain of trust, where one can trust 
+that we did not modify content. While theoretically meaningful modifications are
+possible without changing the hash and file size, making such changes is
+largely infeasible since (1) reversing sha512 hashes is hard (at least for us, the
+authors), usually requiring non-trivial resources (time/computer power) to find an 
+effective attack, (2) even if we succeed in finding a file with the same hash 
+and size, the new file would not necessarily contain changes that are meaningful or 
+desirable.
+</description>
+
+<manifestEntries>
+<i>
+<venue>
+IJCAI-XAI 2020
+</venue>
+<title>
+Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems
+</title>
+<fileName>
+ijcaiXai2020/bayani_xai2020.pdf
+</fileName>
+<fileDescription>
+</fileDescription>
+<fileSize>
+266408 bytes
+</fileSize>
+<sha512Hash>
+126791cc9c8b6e5aa38e6612462d2cf523b4610014aa88793b8af9c16a7b11b0d69f9eae5196d7221038a455a25112361e6f8e379afae1a74ef4ab4eb8720032
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://sites.google.com/view/xai2020/home
+    </venueWebsite>
+</otherInformation>
+</i>
+
+<i>
+<venue>
+IJCAI-XAI 2020
+</venue>
+<title>
+Supplemental Material Zip File
+</title>
+<fileName>
+ijcaiXai2020/bayani_xai2020_supplemental.zip
+</fileName>
+<fileDescription>
+</fileDescription>
+<fileSize>
+82984 bytes
+</fileSize>
+<sha512Hash>
+bab7b980f9f8af069d9e6b457326c445e1eb0ef2ad9329db65f91c3486ed4557b5ed97b204ad0afb8e5524b40835051f8b73b6ae6cab74faf082bdbf673b6d8d
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://sites.google.com/view/xai2020/home
+    </venueWebsite>
+</otherInformation>
+</i>
+
+<i>
+<venue>
+The 2020 CMU Symposium on Artificial Intelligence and Social Good
+</venue>
+<title>
+</title>
+<fileName>
+aisoc2020/screenshotOfAIAndSocialGood2020PresentationSlot.png
+</fileName>
+<fileDescription>
+Picture of the AI and Social Good Website and our reserved presentation slot.
+</fileDescription>
+<fileSize>
+92951 bytes
+</fileSize>
+<sha512Hash>
+8dacca55f93081522fdc8bb12de26d2de7e12c58179439c8abe8ea216a48eb656593438031e0217228bb4a0b4135f1e94c1375051ddfa0f6e88c0802bc1cecd6
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://sites.google.com/view/aiandsocialgood/aisoc20
+    </venueWebsite>
+</otherInformation>
+</i>
+
+<i>
+<venue>
+The 2020 CMU Symposium on Artificial Intelligence and Social Good
+</venue>
+<title>
+Policy and ML-Assisted Decision Making: The Need for Multi-Resolution, Multi-Strength, Interactive Explanations of Learned Systems
+</title>
+<fileName>
+aisoc2020/dbayani_fanoos_cmuSymposiumOnAiAndSocialGood2020.pdf
+</fileName>
+<fileDescription>
+The slides sent to the symposium organizers for a backup presentation in case
+video presentations had technical difficulties. We were informed that the 
+slides would be posted online by the organizers after the event. To the best of
+our knowledge, at the time of writing this note 
+( 02:53:37 UTC 22 Sep 2020 ), these slides are not yet available through
+the symposium.
+</fileDescription>
+<fileSize>
+613831 bytes
+</fileSize>
+<sha512Hash>
+0179820c9d4675b82beb8e43c855cc80c32ca329ad402a4e8538ec82065be0a48982059a5b91c257e88ea0f461d35a6bd79ea9b0d13e57d708941a431fee1325
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://sites.google.com/view/aiandsocialgood/aisoc20
+    </venueWebsite>
+</otherInformation>
+</i>
+</manifestEntries>
+
+</manifest>
+<!--
+<i>
+<venue>
+</venue>
+<title>
+</title>
+<fileName>
+</fileName>
+<fileDescription>
+</fileDescription>
+<fileSize>
+</fileSize>
+<sha512Hash>
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    </venueWebsite>
+</otherInformation>
+</i>
+-->
