@@ -1,6 +1,6 @@
 <manifest>
 <schemaVersion>
-1.0
+2.0
 </schemaVersion>
 <description>
 This file contains a list detailing other Fanoos related work. We do not 
@@ -36,7 +36,7 @@ desirable.
 </description>
 
 <manifestEntries>
-<i>
+<i uuid="c136a89c-0d91-42d8-84ad-43b2fe36b11c">
 <venue>
 IJCAI-XAI 2020
 </venue>
@@ -61,7 +61,7 @@ ijcaiXai2020/bayani_xai2020.pdf
 </otherInformation>
 </i>
 
-<i>
+<i uuid="86b2f6f7-3b3b-45af-b76c-9f36de49f842">
 <venue>
 IJCAI-XAI 2020
 </venue>
@@ -86,7 +86,7 @@ bab7b980f9f8af069d9e6b457326c445e1eb0ef2ad9329db65f91c3486ed4557b5ed97b204ad0afb
 </otherInformation>
 </i>
 
-<i>
+<i uuid="30c085c8-6a28-4cc8-ba79-339e5166e99a">
 <venue>
 The 2020 CMU Symposium on Artificial Intelligence and Social Good
 </venue>
@@ -111,7 +111,7 @@ Picture of the AI and Social Good Website and our reserved presentation slot.
 </otherInformation>
 </i>
 
-<i>
+<i uuid="dde99eb0-5741-477f-8037-07190b0ae246">
 <venue>
 The 2020 CMU Symposium on Artificial Intelligence and Social Good
 </venue>
@@ -141,11 +141,121 @@ the symposium.
     </venueWebsite>
 </otherInformation>
 </i>
+
+<i uuid="78e56937-f9b0-4e0a-9daa-81bf5f7c9277">
+<venue>
+International Conference on Automated Planning and Scheduling 2020 International Workshop of Explainable AI Planning (ICAPS-XAIP 2020)
+</venue>
+<title>
+</title>
+<fileName>
+icapsXaip2020/screenshotOfIcapsXaipPosterAndPaperListing.png
+</fileName>
+<fileDescription>
+Picture of the ICAPS-XAIP 2020 website page that lists the materials for Fanoos. 
+Screenshot taken on day24 month10 year2020.
+</fileDescription>
+<fileSize>
+508054 bytes
+</fileSize>
+<sha512Hash>
+162aa66b3c39dcc5e87882f01c2b0936414a92826e0496fd0973e59815ca673c0a0a6444167bdcac92dfced21772dc12b259c1b7ec2fc2e4ebbfa27c3e1c4b78
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://xaip.mybluemix.net/#/
+    </venueWebsite>
+</otherInformation>
+</i>
+
+<i uuid="ace40a20-c7fd-4c1a-8aa4-d6a1d80121e0">
+<venue>
+International Conference on Automated Planning and Scheduling 2020 International Workshop of Explainable AI Planning (ICAPS-XAIP 2020)
+</venue>
+<title>
+(Poster) Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems
+</title>
+<fileName>
+icapsXaip2020/dbayani_fanoos_poster.png
+</fileName>
+<fileDescription>
+Poster submitted to the ICAPS-XAIP 2020 workshop. After checking, both the 
+poster submitted and the png provided online by the workshop are the same (so
+there was no additional compression or meta-data added, etc.). A pdf file of the
+poster was also submitted to the workshop organizers, but they preferred the
+png; while later the decision may be reversed, at the time being I see little
+utility in providing the pdf here as well. In case it proves useful for the
+record, the sh512sum of the pdf file was 
+a447c4456e5eb7090274946d5c1557b93393cee1f3c6f1f53a3ea8df2a1333635cb2c40a69c4e77950cc717a2c7c27fdcd3fb6cf786eac945bd885bf3cafc636
+and the file size was 716934 bytes.
+
+This poster was displayed and discussed during the second poster session of
+the workshop.
+</fileDescription>
+<fileSize>
+5840383 bytes
+</fileSize>
+<sha512Hash>
+3d4752d269c5d1391314314c02938c58db93eca35e76d948322d85d539704dde2acc46c01ac5413df443682033f95ee9e1d98e31fd08791606d1a6d9c0c7180c
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://xaip.mybluemix.net/#/
+    </venueWebsite>
+    <contentWebAddress>
+    https://xaip.mybluemix.net/posters/125.png
+    </contentWebAddress>
+</otherInformation>
+</i>
+
+<i uuid="8ee791be-60ff-4aff-b9ec-99388584b85f">
+<venue>
+International Conference on Automated Planning and Scheduling 2020 International Workshop of Explainable AI Planning (ICAPS-XAIP 2020)
+</venue>
+<title>
+Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems
+</title>
+<fileName>
+icapsXaip2020/bayani_xai2020.pdf
+</fileName>
+<fileDescription>
+Paper listed online for ICAPS-XAIP 2020 workshop. After checking, it is 
+identical to the one provide for IJCAI-XAI 2020, which is to be expected since
+the ICAPS-XAIP presentation was arranged in collaboration with the sibling
+workshop, IJCAI-XAI. I list the pdf here for the record's sake, despite the
+duplication, though I might reverse this decision later.
+
+Fanoos was shown as a poster presentation at ICAPS-XAIP; the paper is provided
+online by ICAPS-XAIP to facilitate reference by workshop attendees, etc. In
+contrast, at IJCAI-XAI, a paper talk regarding Fanoos will be given. This is
+to say that the involvement and delivery at the two venues is not repetitive.
+</fileDescription>
+<fileSize>
+266408 bytes
+</fileSize>
+<sha512Hash>
+126791cc9c8b6e5aa38e6612462d2cf523b4610014aa88793b8af9c16a7b11b0d69f9eae5196d7221038a455a25112361e6f8e379afae1a74ef4ab4eb8720032
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://xaip.mybluemix.net/#/
+    </venueWebsite>
+</otherInformation>
+</i>
+
 </manifestEntries>
+
+<schemaChangeLog>
+<revision startVersion="1.0" endVersion="2.0" uuid="78931948-f085-4322-aadc-3be1dad4c828">
+    <i>added UUIDs as attributes to children of the manifestEntries element</i>
+    <i>added the schemaChangeLog element</i>
+    <i><todo>check conformance to XML ideal practices and correct as needed in later schema revision</todo></i>
+</revision>
+</schemaChangeLog>
 
 </manifest>
 <!--
-<i>
+<i uuid="">
 <venue>
 </venue>
 <title>
