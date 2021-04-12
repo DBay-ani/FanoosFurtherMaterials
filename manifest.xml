@@ -38,7 +38,7 @@ desirable.
 <manifestEntries>
 <i uuid="c136a89c-0d91-42d8-84ad-43b2fe36b11c">
 <venue>
-IJCAI-XAI 2020
+International Joint Conference on Artificial Intelligence 2020 Workshop on Explainable Artificial Intelligence (IJCAI-XAI 2020)
 </venue>
 <title>
 Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems
@@ -63,7 +63,7 @@ ijcaiXai2020/bayani_xai2020.pdf
 
 <i uuid="86b2f6f7-3b3b-45af-b76c-9f36de49f842">
 <venue>
-IJCAI-XAI 2020
+International Joint Conference on Artificial Intelligence 2020 Workshop on Explainable Artificial Intelligence (IJCAI-XAI 2020)
 </venue>
 <title>
 Supplemental Material Zip File
@@ -78,6 +78,46 @@ ijcaiXai2020/bayani_xai2020_supplemental.zip
 </fileSize>
 <sha512Hash>
 bab7b980f9f8af069d9e6b457326c445e1eb0ef2ad9329db65f91c3486ed4557b5ed97b204ad0afb8e5524b40835051f8b73b6ae6cab74faf082bdbf673b6d8d
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://sites.google.com/view/xai2020/home
+    </venueWebsite>
+</otherInformation>
+</i>
+
+
+<i uuid="90d2b42b-eefc-4759-8709-c722cdf6d98e">
+<venue>
+International Joint Conference on Artificial Intelligence 2020 Workshop on Explainable Artificial Intelligence (IJCAI-XAI 2020)
+</venue>
+<title>
+Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned Systems
+</title>
+<fileName>
+ijcaiXai2020/fanoosPresentation_IJCAI_XAI_2021.pdf
+</fileName>
+<fileDescription>
+This file contains a PDF version of slides shown for the presentation of Fanoos
+at IJCAI-XAI 2020; the presentation started in the latter part of hour3 day8 
+month1 year2021 (UTC) and ended no later than the first few minutes of 
+hour4 day8 month1 year2021 (UTC). The presentation was a slide-deck; it has been
+exported to a PDF here for easier inclusion in this repo. Prior to exporting 
+the PDF, some minor adjustments were done to ensure all intended content was 
+viewable. For example, animations in the original presentation often occluded 
+content; effected slides have been split into multiple parts in this PDF,
+showing the appearance before and after the animation. The pdf was generated
+on minute43 hour6 day11 month4 year2021 (UTC)
+
+While many talks during the workshop were recorded, the presentation for Fanoos
+was not since consent was not provided by the speaker for a recording to be made
+and/or shared.
+</fileDescription>
+<fileSize>
+1046096 bytes
+</fileSize>
+<sha512Hash>
+7e93a34d5c5d404a73f028c013e77d42f0c2582c11da7cbfe606a2eac6980818181a054f8f642756b2ae4488d8759c57bb8531e16f97030aaf5dfdc22e5169b7
 </sha512Hash>
 <otherInformation>
     <venueWebsite>
@@ -227,8 +267,8 @@ duplication, though I might reverse this decision later.
 
 Fanoos was shown as a poster presentation at ICAPS-XAIP; the paper is provided
 online by ICAPS-XAIP to facilitate reference by workshop attendees, etc. In
-contrast, at IJCAI-XAI, a paper talk regarding Fanoos will be given. This is
-to say that the involvement and delivery at the two venues is not repetitive.
+contrast, at IJCAI-XAI, a paper talk regarding Fanoos will be given. This is to
+say that the involvement and delivery at the two venues is not repetitive.
 </fileDescription>
 <fileSize>
 266408 bytes
@@ -240,6 +280,187 @@ to say that the involvement and delivery at the two venues is not repetitive.
     <venueWebsite>
     https://xaip.mybluemix.net/#/
     </venueWebsite>
+</otherInformation>
+</i>
+
+<i uuid="30b98938-7b14-4681-8279-3e539528aba6">
+<venue>
+</venue>
+<title>
+Description of Analysis of Learned Controllers (Neural Nets) Currently Used
+in Group as of Day7 Month6 Year2019: The Possibilities for Abstractions,
+Descriptions and Possible Proofs of Behavior
+Document UUID: bcfe849d-4394-435d-8cb9-423cf0c1e497
+</title>
+<fileName>
+</fileName>
+<fileDescription>
+Essentially an improved and far extended version of the write-up pointed to in this
+manifest under the item with UUID dff902a3-19f4-4fa3-87dc-77be952cb51f. 
+
+Note that the name of the document - which makes reference to day7 month6 
+year2019 - refers to which day the document (as separate from the earlier
+writings ) was created and began being written. The document was write by 
+D Bayani, who later emailed it to the people listed in the document on minute50
+hour23 day12 month6 year2019 (UTC). This document is not provided in this
+repository; see the item in this manifest with UUID 
+3d4f8f56-b134-424b-8e05-d8fc7ed019fa for a redacted version of this write-up.
+Note that this document contains result-types that were not adopted in Fanoos
+(such as visual plots and "task agnostic" exploration of spaces), in addition to
+efforts that did feed into the core of Fanoos.
+</fileDescription>
+<fileSize>
+25372392 bytes
+</fileSize>
+<sha512Hash>
+52f48acacaba1aea4f9e34606a1a7ef17413b4d51ca83004c10adea26ad25ebb9b87ddfd8c87d235a07661911c4805d69f8a43273425d29a0996ad30b141d51f
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
+<i uuid="3d4f8f56-b134-424b-8e05-d8fc7ed019fa">
+<venue>
+</venue>
+<title>
+Description of Analysis of Learned Controllers (Neural Nets) Currently Used
+in Group as of Day7 Month6 Year2019: The Possibilities for Abstractions,
+Descriptions and Possible Proofs of Behavior
+Document UUID: bcfe849d-4394-435d-8cb9-423cf0c1e497
+</title>
+<fileName>
+earlyDocuments/redacted_analysisDescription_day7_month6_year2019_uuid_bcfe849d-4394-435d-8cb9-423cf0c1e497.pdf
+</fileName>
+<fileDescription>
+Redacted version of the document which is listed in this manifest under the item
+with uuid 30b98938-7b14-4681-8279-3e539528aba6 . Note that the name of the file
+- which makes reference to day7 month6 year2019 - is based on the original file
+name, which expressed which day the document (as separate from the earlier, 
+shorter writings described in the item of this manifest with UUID 
+dff902a3-19f4-4fa3-87dc-77be952cb51f ) was created and began being written.
+</fileDescription>
+<fileSize>
+29682815 bytes
+</fileSize>
+<sha512Hash>
+cd39d69f8db1639032ed27193b2b8b18ca82b72b5a015f692b1e7ac36b4cc1971b5bca945c9e721bb9fbe5b809267171ccf250edbc565aa5eb4e37ecf15783bf
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
+<i uuid="069a4e76-558a-4e97-847a-90984adb3cb5">
+<venue>
+</venue>
+<title>
+Description of Stability Analysis Process and Results
+Document UUID: d0b509df-70a7-4356-8b68-7b083d8b5208
+</title>
+<fileName>
+</fileName>
+<fileDescription>
+This write-up describes some thoughts, implementations, and conducted 
+experiments leading up to the approach solidified in Fanoos; the "official 
+start" of D Bayani's work relating to Fanoos was certainly no later than this 
+(see the notes in the document listed under the manifest item with UUID 
+30b98938-7b14-4681-8279-3e539528aba6 for discussion of some relevant materials 
+that preceded this). Note that this document contains result-types that were not
+adopted in Fanoos (such as visual plots and "task agnostic" exploration of 
+spaces), in addition to efforts that did feed into the core of Fanoos.
+
+The document was write by D Bayani, who later emailed it to the people listed in
+the write-up on minute23 hour10 day31 month5 year2019 (UTC). This document is 
+not provided in this repository; see the item in this manifest with UUID 
+dff902a3-19f4-4fa3-87dc-77be952cb51f for a redacted version of this material.
+</fileDescription>
+<fileSize>
+2990590 bytes
+</fileSize>
+<sha512Hash>
+9782b8833cb0c25c0c22179eb30e30548417dde8c0d36c6e193c4248284fd4dfc8a9cd37485fe9d0da497c17ced571270874094a88b80d96db60a31d3286fbe3
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
+<i uuid="dff902a3-19f4-4fa3-87dc-77be952cb51f">
+<venue>
+</venue>
+<title>
+Description of Stability Analysis Process and Results
+Document UUID: d0b509df-70a7-4356-8b68-7b083d8b5208
+</title>
+<fileName>
+earlyDocuments/redacted_stabilityAnalysisDescription_day29_month5_year2019_uuid_d0b509df-70a7-4356-8b68-7b083d8b5208.pdf
+</fileName>
+<fileDescription>
+Redacted version of the document which is listed in this manifest under the item
+with uuid 069a4e76-558a-4e97-847a-90984adb3cb5 . Note that the name of the file 
+- which makes reference to day29 month5 year2019 - is based on the original file
+name, which expressed which day writing began.
+</fileDescription>
+<fileSize>
+3737613 bytes
+</fileSize>
+<sha512Hash>
+9dffbecdf01f4282eb4a879d889f050e4aab8ed579595f43c4cda90d4cd95d9a92f5361cc78680f354392df0abaebaa438ed6b82a43df20be4ea9c65529fa6bc
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
+<i uuid="d7fecc3b-93bb-424e-a838-3f000f3715cf">
+<venue>
+</venue>
+<title>
+Description of Idea for Operator Selection, Mixing Both Expert Knowledge and
+Learning
+Document UUID: 3eb28d00-0d06-4b26-828e-126026308900
+</title>
+<fileName>
+</fileName>
+<fileDescription>
+Write-up describing ideas on theories, implementations, and agendas for 
+extensions of Fanoos, particularly relating to a learning-based approach for 
+automatically selecting operators. The content and writing was by D Bayani, who
+sent it to S Mitsch via email on minute43 hour0 day17 month1 year2020 (UTC). 
+Brief comments relating to some thoughts expounded in this document can be found
+in the appendix of the IJCAI-XAI write-up (pointed to in this manifest's item 
+with UUID 86b2f6f7-3b3b-45af-b76c-9f36de49f842 ).
+</fileDescription>
+<fileSize>
+205290 bytes
+</fileSize>
+<sha512Hash>
+bc52913828f0df2135b96c0f46fc8dd5b060ae1efb9e928a6e73f261ea45b349d3dfd94c08bc56f3cfb9d6732976656474d1b58cf91ea6b2fa5bfe0304d7f39c
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
+
+<i uuid="0e92e613-7edb-4c1d-b3c8-8a27d2246cbf">
+<venue>
+</venue>
+<title>
+</title>
+<fileName>
+publicCode/Fanoos.tar.gz
+</fileName>
+<fileDescription>
+Tarred and compressed code for Fanoos cloned from GitHub as of hour22 day11 
+month4 year2021 (UTC). Includes the master and development branches.
+</fileDescription>
+<fileSize>
+1079760 bytes
+</fileSize>
+<sha512Hash>
+10bf8e0902fc36fa6fcd402dd51e75832f76729f7eba12788b54c8e5a1ceea0ef73c738ea677a80058c58d8c5b18b3dca4722e8cee12ea3d38da22f50be8f74d
+</sha512Hash>
+<otherInformation>
+    <contentWebAddress>
+    https://github.com/DBay-ani/Fanoos.git
+    </contentWebAddress>
 </otherInformation>
 </i>
 
@@ -271,6 +492,8 @@ to say that the involvement and delivery at the two venues is not repetitive.
 <otherInformation>
     <venueWebsite>
     </venueWebsite>
+    <contentWebAddress>
+    </contentWebAddress>
 </otherInformation>
 </i>
 -->
