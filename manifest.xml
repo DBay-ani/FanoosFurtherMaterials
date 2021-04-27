@@ -445,7 +445,7 @@ bc52913828f0df2135b96c0f46fc8dd5b060ae1efb9e928a6e73f261ea45b349d3dfd94c08bc56f3
 <title>
 </title>
 <fileName>
-publicCode/Fanoos.tar.gz
+publicCode/Fanoos_d11M4y2021.tar.gz
 </fileName>
 <fileDescription>
 Tarred and compressed code for Fanoos cloned from GitHub as of hour22 day11 
@@ -463,6 +463,33 @@ month4 year2021 (UTC). Includes the master and development branches.
     </contentWebAddress>
 </otherInformation>
 </i>
+
+<i uuid="d070efb4-5aa0-4f2f-9fea-17ed58a61f86">
+<venue>
+</venue>
+<title>
+</title>
+<fileName>
+publicCode/Fanoos_d27M4y2021.tar.gz
+</fileName>
+<fileDescription>
+Tarred and compressed code for Fanoos cloned from GitHub as of hour7 day27
+month4 year2021 (UTC). Includes the master, development, and experimental 
+branches.
+</fileDescription>
+<fileSize>
+1111596 bytes
+</fileSize>
+<sha512Hash>
+14012d52dc69ce5f6a013c332a8613ce45f285f3e8b5e24f192d957756736904b194b09bb4f9da2f705d700ef993423c71e93ec9fcadc8de2739b8688e21c4a3
+</sha512Hash>
+<otherInformation>
+    <contentWebAddress>
+    https://github.com/DBay-ani/Fanoos.git
+    </contentWebAddress>
+</otherInformation>
+</i>
+
 
 </manifestEntries>
 
