@@ -493,6 +493,7 @@ Learning
 Document UUID: 3eb28d00-0d06-4b26-828e-126026308900
 </title>
 <fileName>
+forExtensionsOfFanoos/fanoos_operatorSelection_UUID3eb28d00-0d06-4b26-828e-126026308900.pdf
 </fileName>
 <fileDescription>
 Write-up describing ideas on theories, implementations, and agendas for 
@@ -512,6 +513,34 @@ bc52913828f0df2135b96c0f46fc8dd5b060ae1efb9e928a6e73f261ea45b349d3dfd94c08bc56f3
 <otherInformation>
 </otherInformation>
 </i>
+
+<i uuid="8b9e34b6-31dd-4b40-8892-a9687e853a1e">
+<venue>
+</venue>
+<title>
+</title>
+<fileName>
+</fileName>
+<fileDescription>
+A PNG-file with a screenshot of the email delivering the content referenced in this manifest
+file under UUID d7fecc3b-93bb-424e-a838-3f000f3715cf. The clock of the computer that was 
+used to take the screenshot was set for a timezone seven hours behind UTC at the time
+the screenshot was taken.
+
+The file is not included in this repo since, as a picture showing an opened email account, 
+it displays material that one would prefer not to share in case the information there-shown 
+is more sensitive than expected.
+</fileDescription>
+<fileSize>
+183122 bytes
+</fileSize>
+<sha512Hash>
+b722974f61fb2a358fb5018a766de694dc6bafb46017889d53427a6b0272f23d788433ee90cc2320c1263a2e74359072c9f0424a5020009c17f72540fbdd109e
+</sha512Hash>
+<otherInformation>
+</otherInformation>
+</i>
+
 
 
 </manifestEntries>
