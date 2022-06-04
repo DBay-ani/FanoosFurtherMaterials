@@ -542,6 +542,49 @@ b722974f61fb2a358fb5018a766de694dc6bafb46017889d53427a6b0272f23d788433ee90cc2320
 </i>
 
 
+<i uuid="d23c5509-4368-4979-bf49-ab6074035905">
+<venue>
+VMCAI 2022: Verification, Model Checking, and Abstract Interpretation - 23rd 
+International Conference, Philadelphia, PA, USA, January 16-18, 2022
+</venue>
+<title>
+Fanoos: Multi-Resolution, Multi-Strength, Interactive Explanations for Learned
+Systems
+</title>
+<fileName>
+vmcai2022/fanoosPresentation_VMCAI_2022_animationsSplitIntoSlides.pdf
+</fileName>
+<fileDescription>
+A PDF export of slides shown at VMCAI 2022 with minor modifications - detailed 
+below -largely intended to faithfully reflect the slide's content in the PDF
+format ( VMCAI 2022: Verification, Model Checking, and Abstract 
+Interpretation - 23rd International Conference, Philadelphia, PA, USA, January
+16-18, 2022 ).
+
+This PDF was prepared on day4 mont6 year2022. The original slides contained 
+animations - thankfully limited to the simple appearance or removal of 
+objects - so in order to produce a PDF that faithfully captures the flow of the 
+original presentation, slides containing animations were duplicated and then the
+results of successive animations shown in proper order on each new slide. For 
+example, if a slide S contained an animation where a figure called A appeared
+after clicking, then the PDF would contain one slide showing S prior to A 
+appearing, and another slide showing the state of S after A appeared. Outside
+this faithful reflection of animations and its impacts (its impacts - e.g., the
+slide numbers changing), the only other modification to the slides after the 
+VMCAI presentation has been the correction of a few minor spelling errors.
+</fileDescription>
+<fileSize>
+1329062 bytes
+</fileSize>
+<sha512Hash>
+910c9ba51e55e3ad1b83b2dc877bf36fa61d62e670444d40b230630594ca0cfb9f367eee125522f0fe0df554927b85ed6c96560a7cbe6d8d8153291d5c820516
+</sha512Hash>
+<otherInformation>
+    <venueWebsite>
+    https://popl22.sigplan.org/home/VMCAI-2022
+    </venueWebsite>
+</otherInformation>
+</i>
 
 </manifestEntries>
 
